@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525363457 source:c:\users\myasuspc\desktop\tushar projects\banking\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
+1525364184 source:c:\users\myasuspc\desktop\tushar projects\banking\untitled2.c
+	<conio.h>
+	<stdlib.h>
+
